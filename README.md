@@ -1,5 +1,5 @@
 # PENGU-Discord-Bot
-Discord bot that plays music in your voice channels!
+[DEPLOYED] Discord bot that plays music in your voice channels!
 
 This bot is currently live as of March 3, 2022.
 To use this bot, add it to your Discord server here:
