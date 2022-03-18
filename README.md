@@ -9,4 +9,4 @@ Listed available commands are on my website:
 https://jaguarperlas.com/pengu/details.html
 
 This application uses the file "conf.yml" for credentials.
-Before using this application from source code, please insert appropriate credentials.
+Before running this application from "bot.py", please insert appropriate credentials.
