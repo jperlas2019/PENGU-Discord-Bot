@@ -1,0 +1,15 @@
+version: 1
+
+discord_token: ''
+
+username_yt: ''
+password_yt: ''
+
+username_sc: ''
+password_sc: ''
+
+spot_client_id: ''
+spot_secret: ''
+
+# int
+bot_id: 
